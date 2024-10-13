@@ -1,2 +1,2 @@
-import streamlit
-import numpy
+import streamlit as st
+st.write('My First Text')
